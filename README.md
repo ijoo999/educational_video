@@ -39,7 +39,6 @@ A full-stack video viewer that lets users browse, watch videos, and leave commen
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Screenshots
 
 ### Video Player Page
 
@@ -53,7 +52,6 @@ Lists all available videos pulled from the backend.
 
 ## Notes
 
-- All video and comment data is fetched from a Google Cloud-hosted API
 - Comments are stored per video ID
 - Valid video URLs are required to ensure proper playback
 
