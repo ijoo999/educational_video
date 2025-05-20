@@ -9,7 +9,7 @@ A full-stack video viewer that lets users browse, watch videos, and leave commen
 - View and post comments per video
 - Server-rendered pages with client-side hydration
 - Minimal UI with Tailwind CSS
-- **Currently supports only direct .mp4 video URLs**
+- _**Currently supports only direct .mp4 video URLs**_
 
 ## Tech Stack
 
